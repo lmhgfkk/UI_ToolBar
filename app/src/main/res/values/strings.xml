@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI_ToolBar</string>
+    <string name="action_search">搜索</string>
+    <string name="action_setting">设置</string>
+    <string name="action_collect">收藏</string>
+    <string name="action_notifycation">通知</string>
+    <string name="action_about">关于</string>
+</resources>

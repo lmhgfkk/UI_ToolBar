@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:imac="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/zhihu_search"
+        android:icon="@drawable/icon_search"
+        android:title="@string/action_search"
+        imac:showAsAction="ifRoom" ></item>
+    <item
+        android:id="@+id/zhihu_notifycation"
+        android:icon="@drawable/ic_notifications_white_18dp"
+        android:title="@string/action_notifycation"
+        imac:showAsAction="ifRoom" ></item>
+    <item
+        android:id="@+id/zhihu_setting"
+        android:title="设置"
+        imac:showAsAction="never" ></item>
+
+    <item
+        android:id="@+id/zhihu_about"
+        android:title="@string/action_about"
+        imac:showAsAction="never" ></item>
+
+</menu>
